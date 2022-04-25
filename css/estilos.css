@@ -49,10 +49,10 @@ body
     background: white;
     padding: 1em;
 }
-.no-olvidar {
-    font-style: italic;
-}
 
-#lo-logre {
-    font-weight: bolder;
+#footer {
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
