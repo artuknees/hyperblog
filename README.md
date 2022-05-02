@@ -8,5 +8,6 @@ En este curso vemos:
 * El flujo de trabajo en GitHub
 * Buenas prácticas
 * Creado por el equipo platzi
+* Incluye ejemplos en windows, linux y mac
 
 Y como recordatorio: **Este readme es un chiste**. Solo está hecho como ejemplo.
