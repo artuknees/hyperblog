@@ -9,5 +9,6 @@ En este curso vemos:
 * Buenas prácticas
 * Creado por el equipo platzi
 * Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edadaes
 
 Y como recordatorio: **Este readme es un chiste**. Solo está hecho como ejemplo.
