@@ -7,5 +7,6 @@ En este curso vemos:
 * Todos los comandos de git
 * El flujo de trabajo en GitHub
 * Buenas prácticas
+* Creado por el equipo platzi
 
 Y como recordatorio: **Este readme es un chiste**. Solo está hecho como ejemplo.
